@@ -119,7 +119,7 @@ assign VGA_R = vga_rgb[11:8];
 assign VGA_G = vga_rgb[11:8];
 assign VGA_B = vga_rgb[11:8];
     
-end
+
 
 
     

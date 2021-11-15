@@ -66,6 +66,7 @@ always @(posedge PCK) begin
             VGA_VS <= 1'b0;
     else if (VCNT==vsend)
         VGA_VS <= 1'b1;
+    end
 end
     
 endmodule
